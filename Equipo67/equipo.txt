@@ -3,3 +3,10 @@
 3. Braulio Emiliano Rodriguez Alvarado
 4. Regina Garcia COntreras
 5. Jesus Eduardo Tellez Hernandez
+
+Touch : crea archivos 
+Nano : edita archivos 
+Git add : preparar cambios 
+Git commit -M : guardar cambios 
+Git remote add origin :conectar repositorio 
+Git push origin main: subir cambios
