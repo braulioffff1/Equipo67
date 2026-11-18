@@ -3,6 +3,7 @@
 3. Braulio Emiliano Rodriguez Alvarado
 4. Regina Garcia COntreras
 5. Jesus Eduardo Tellez Hernandez
+6. Oliver Alvarez Castillo 
 
 Touch : crea archivos 
 Nano : edita archivos 
